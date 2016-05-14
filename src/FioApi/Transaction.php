@@ -59,24 +59,28 @@ class Transaction
 
     /**
      * Account owner
+     *
      * @var string
      */
     protected $benefName;
 
     /**
      * Street of account owner
+     *
      * @var string
      */
     protected $benefStreet;
 
     /**
      * City of account owner
+     *
      * @var string
      */
     protected $benefCity;
 
     /**
      * Country of account owner
+     *
      * @var string
      */
     protected $benefCountry;
